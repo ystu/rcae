@@ -19,6 +19,8 @@ ROOT = "/Users/raghav/Documents/Uni/KDD-2017/sample_autoencoder/autoencode_softt
 basepath="/Users/raghav/Documents/Uni/ECML_2017/experiments/restaurant/cae/results/"
 mean_square_error_dict ={}
 
+# hihi
+
 side = 32
 side1 = 120
 side2 = 160

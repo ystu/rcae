@@ -15,8 +15,8 @@ from scipy.io import loadmat
 # Global variables
 nb_feature = 64
 image_and_anamolies = {'image': 5,'anomalies1':3,'anomalies2':3,'imagecount': 10000,'anomaliesCount': 500}
-ROOT = "/Users/raghav/Documents/Uni/KDD-2017/sample_autoencoder/autoencode_softthreshold/cifar-10-batches-py"
-basepath="/Users/raghav/Documents/Uni/ECML_2017/experiments/restaurant/ae/results/"
+#ROOT = "/Users/raghav/Documents/Uni/KDD-2017/sample_autoencoder/autoencode_softthreshold/cifar-10-batches-py"
+basepath="../results/"
 mean_square_error_dict ={}
 
 
